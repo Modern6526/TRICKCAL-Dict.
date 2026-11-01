@@ -1,0 +1,21 @@
+[
+  {
+    "reading": "あーねっと",
+    "candidates": [
+      "アーネット",
+      "Annette",
+      "아네트"
+    ],
+    "pos": "名詞",
+    "category": "キャラクター"
+  },
+  {
+    "reading": "あめりあ",
+    "candidates": [
+      "アメリア",
+      "Amelia"
+    ],
+    "pos": "名詞",
+    "category": "キャラクター"
+  }
+]
